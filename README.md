@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm an IT Systyems Administrator currently working at Launch That, with a strong focus on security, infrastructure, and process control.
+I'm an IT Systems Administrator currently working at Launch That, with a strong focus on security, infrastructure, and process control.
 
 ### 🔭 I’m currently working on:
 - CI/CD Workflows and Cloud Computing Administration
